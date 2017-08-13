@@ -16,14 +16,14 @@ O conteúdo de cada capítulo é escrito em um arquivo **.tex** separado, e deve
 
 O projeto foi codificado em UTF-8, o que permite o uso de caracteres latinos sem comandos especiais.
 
-O arquivo **.pdf** gerado deve obedecer a formatação definida na folha de estilos. Qualquer modificação da folha de estilo deve ser primeiramente aprovada pela Coordenação de Engenharia Mecatrônica, ou o Relatório pode ser recusado pela banca examinadora.
+O arquivo **.pdf** gerado deve obedecer a formatação definida na folha de estilos. Qualquer modificação da folha de estilo deve ser primeiramente aprovada pela Coordenação de Engenharia Mecatrônica, ou o relatório pode ser recusado pela banca examinadora.
 
 
 ### **Compilando o projeto**
 
-Para compilar projeto localmente, é necessário instalar um ambiente TeX como [MiKTeX](https://miktex.org/download), [TeXstudio](http://www.texstudio.org/) ou [LyX](https://www.lyx.org/).
+Para compilar o projeto localmente, é necessário instalar um ambiente TeX como [MiKTeX](https://miktex.org/download), [TeXstudio](http://www.texstudio.org/) ou [LyX](https://www.lyx.org/).
 
-O projeto também pode ser editado e compilado em editores *online* como o [ShareLaTeX](https://www.sharelatex.com). Basta criar um novo projeto, fazer o *upload* dos arquivos do projeto, definir o arquivo **relatorio.tex** como documento principal e pronto!
+O projeto também pode ser editado e compilado em editores *online* como o [ShareLaTeX](https://www.sharelatex.com). Basta criar um novo projeto, fazer o *upload* dos arquivos do projeto e definir o arquivo **relatorio.tex** como documento principal.
 
 
 ### **Licença de uso**
