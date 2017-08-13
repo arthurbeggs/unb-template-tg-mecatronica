@@ -1,4 +1,4 @@
-# ** *Template* de TG - Mecatrônica UnB**
+# ***Template* de TG - Mecatrônica UnB**
 
 *Template* em LaTeX do Trabalho de Graduação em Engenharia Mecatrônica da Universidade de Brasília.
 
