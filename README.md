@@ -3,6 +3,10 @@
 *Template* em LaTeX do Trabalho de Graduação em Engenharia Mecatrônica da Universidade de Brasília.
 
 
+### **Início Rápido**
+O *template* está disponível no ShareLaTeX pelo link **[https://tinyurl.com/template-tg](https://tinyurl.com/template-tg)**.
+
+
 ### **Download do Template**
 
 Baixe o *template* **[clicando aqui!](https://github.com/arthurbeggs/unb-template-tg-mecatronica/archive/master.zip)** Ou faça um *clone* ou *fork* do repositório.
@@ -21,7 +25,7 @@ O arquivo **.pdf** gerado deve obedecer a formatação definida na folha de esti
 
 ### **Compilando o projeto**
 
-Para compilar o projeto localmente, é necessário instalar um ambiente TeX como [MiKTeX](https://miktex.org/download), [TeXstudio](http://www.texstudio.org/) ou [LyX](https://www.lyx.org/).
+Para compilar o projeto localmente, é necessário instalar um ambiente TeX como [TeX Live](https://www.tug.org/texlive/), [MiKTeX](https://miktex.org/download), [TeXstudio](http://www.texstudio.org/) ou [LyX](https://www.lyx.org/).
 
 O projeto também pode ser editado e compilado em editores *online* como o [ShareLaTeX](https://www.sharelatex.com). Basta criar um novo projeto, fazer o *upload* dos arquivos do projeto e definir o arquivo **relatorio.tex** como documento principal.
 
